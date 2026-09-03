@@ -10,7 +10,7 @@ documented path for writing programs today; a Rust program SDK ships in-tree.
 |---|---|
 | **Documentation** | <https://thru.org/docs/> (agent index: <https://thru.org/llms.txt>) |
 | **Set up the DevKit** | <https://thru.org/docs/program-development/setting-up-thru-devkit/> |
-| **Source** | [Unto-Labs/thru](https://github.com/Unto-Labs/thru): C, C++, and Rust SDKs, the `thru` CLI, Rust client crates, protobufs, and TypeScript packages (public mirror, regenerated each release) |
+| **Source** | [Unto-Labs/thru](https://github.com/Unto-Labs/thru): C, C++, and Rust SDKs, the `thru` CLI, Rust client crates, protobufs, and TypeScript packages |
 | **Explorer** | <https://scan.thru.org> |
 
 ## Packages and tools
